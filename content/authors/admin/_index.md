@@ -105,19 +105,19 @@ skills:
     items:
       - name: Python
         description: 'Good Experience'
-        percent: 100
+        percent: 
         icon: 
       - name: LAMMPS
         description: 'Good Experience'
-        percent: 100
+        percent: 
         icon: 
       - name: Origin
         description: 'Good Experience'
-        percent: 100
+        percent: 
         icon: 
       - name: Ovito
-        descritpion: 'Good Experience'
-        percent: 100
+        description: 'Good Experience'
+        percent: 
         icon:
   - name: Hobbies
     color: '#eeac02'
