@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoc (PI: Gabriele Sosso)
+role: Postdoc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
