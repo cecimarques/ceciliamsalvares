@@ -105,16 +105,16 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
+        percent: 100
+        icon: 
+      - name: LAMMPS
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        icon: 
+      - name: Origin
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 100
+        icon: 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
