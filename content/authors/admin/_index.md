@@ -36,8 +36,8 @@ profiles:
 education:
   - area: PhD (Chemistry and Physical-Chemistry of Materials)
     institution: Universite de Montpellier
-    date_start: 10-2021
-    date_end: 09-2024
+    date_start: 2021-10-01
+    date_end: 2024-09-30
     summary: |
       The project aimed to study ZIF-8/PVDF composites at the nanoparticle level using a coarse grained model to answer, at the molecular level, questions related to the influence of nanoparticle shape and size on the polymer structuration and gas adsorption. The project also contemplated the development (and assessment) of several force fields, stemming from different potential fitting strategies (MARTINI, force matching and iterative Boltzmann inversion), as well as different mappings for studying bulk ZIF-8. This thesis was supervised by Prof. Rocio Semino (https://www.rociosemino.com/).
 
@@ -53,8 +53,8 @@ education:
       url: 'https://example.com'
   - area: Master of Science (Erasmus - FAME)
     institution: Grenoble INP and Technische Universitat Darmstadt (double degree)
-    date_start: 09-2018
-    date_end: 08-2020
+    date_start: 2018-09-01
+    date_end: 2020-08-31
     summary: |
       Courses were about fundamentals of material's science and applications within a diverse spectrum. My specialization (as well as internship and Mater thesis) was directed towards classical computer simulations. The topic of my Master thesis in particular was on evaluating a given force field on what concerns its ability to reproduce the specific heat capacity at constant pressure (in liquid and solid phases), self-diffusion coefficients and melting point of CaO using classical molecular dynamics, and was made under the supervision of Noel Jakse.
 
@@ -64,8 +64,8 @@ education:
       - https://doi.org/10.1088/1361-648x/abfc0f
   - area: Bachelor degree on Chemical Engineering
     institution: Pontificia Universidade Catolica de Minas Gerais (PUC-MG)
-    date_start: 01-2013
-    date_end: 12-2017
+    date_start: 2013-01-01
+    date_end: 2017-12-31
     summary: |
       GPA: 3.36
       
@@ -93,7 +93,7 @@ work:
     company_name: University of Warwick, Sosso group
     company_url: 'https://sossogroup.uk/'
     company_logo: ''
-    date_start: 10-2024
+    date_start: 2024-10-01
     date_end: ''
     summary: |
       The project is about investigating organic liquids under high pressures. The goal is to unveil new compounds that can be used as pressure-transmitting-media in x-ray experiments, amongst other techniques, at high pressure as well as to understand why currently known ones indeed remain hydrostatic at high pressures (i.e. what makes them special in that matter?). The project has both a computational and an experimental part. The former is carried out by me (postdoc) and Gabriele Sosso (PI), and involves classical simulations at the atomistic resolution of several different liquids, mostly using generic force fields, while the latter is carried out by Cameron Wilson (postdoc) and Mark Senn (PI). Additionally, on the experiment side, Elizabeth Arnold (PhD) and Nick Funnel (ISIS Neutron and Muon Source who serves as a consultant in the project).
