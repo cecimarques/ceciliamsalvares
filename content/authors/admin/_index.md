@@ -110,15 +110,15 @@ skills:
       - name: LAMMPS
         description: 'Good Experience
         percent: ''
-        icon: "custom/blank"
+        icon: github
       - name: Origin
         description: 'Good Experience'
         percent: '' 
-        icon: "custom/blank"
+        icon: github
       - name: OVITO
         description: 'Good Experience'
         percent: ''
-        icon: "custom/blank"
+        icon: github
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
