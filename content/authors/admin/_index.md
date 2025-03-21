@@ -106,19 +106,15 @@ skills:
       - name: Python
         description: 'Good Experience'
         percent: ''
-        icon: ''
       - name: LAMMPS
         description: 'Good Experience
         percent: ''
-        icon: 
       - name: Origin
         description: 'Good Experience'
-        percent: ''
-        icon: 
+        percent: '' 
       - name: OVITO
         description: 'Good Experience'
         percent: ''
-        icon: 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
