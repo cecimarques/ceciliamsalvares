@@ -147,10 +147,18 @@ languages:
     percent: 100
   - name: French
     percent: 50
-
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Best Talk Prize CCP5 Summer School 2022
+    url: https://www.ccp5.ac.uk/summer-school/
+    date: 'July/2022'
+    awarder: CCP5 Summer School – Molecular Simulation Methods, 2022, Durham, England. Organized by Colin Freeman et al.
+    icon: ''
+    summary: |
 ---
-
-
 
 Postdoc studying molecular liquids at high pressure
 
