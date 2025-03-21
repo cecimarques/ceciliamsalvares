@@ -106,19 +106,19 @@ skills:
       - name: Python
         description: 'Good Experience'
         percent: ''
-        icon: "custom/blank"
+        icon: devicon/python
       - name: LAMMPS
         description: 'Good Experience
         percent: ''
-        icon: github
+        icon: devicon/python
       - name: Origin
         description: 'Good Experience'
         percent: '' 
-        icon: github
+        icon: devicon/python
       - name: OVITO
         description: 'Good Experience'
         percent: ''
-        icon: github
+        icon: devicon/python
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
