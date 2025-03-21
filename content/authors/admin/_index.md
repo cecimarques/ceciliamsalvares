@@ -147,7 +147,7 @@ languages:
 awards:
   - title: Best Talk Prize CCP5 Summer School 2022
     url: https://www.ccp5.ac.uk/summer-school/
-    date: 'July/2022'
+    date: '2022-07-01'
     awarder: CCP5 Summer School – Molecular Simulation Methods, 2022, Durham, England. Organized by Colin Freeman et al.
     icon: ''
     summary: |
