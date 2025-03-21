@@ -90,7 +90,7 @@ education:
       - to Universidade federal de Ado Jorio (UFMG), 
 work:
   - position: Postdoc
-    company_name: University of Warwick; Project PI: Gabriele Sosso
+    company_name: University of Warwick, Project PI: Gabriele Sosso
     company_url: 'https://sossogroup.uk/'
     company_logo: ''
     date_start: October/2024
