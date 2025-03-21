@@ -41,13 +41,13 @@ education:
     summary: |
       The project aimed to study ZIF-8/PVDF composites at the nanoparticle level using a coarse grained model to answer, at the molecular level, questions related to the influence of nanoparticle shape and size on the polymer structuration and gas adsorption. The project also contemplated the development (and assessment) of several force fields, stemming from different potential fitting strategies (MARTINI, force matching and iterative Boltzmann inversion), as well as different mappings for studying bulk ZIF-8. This thesis was supervised by Prof. Rocio Semino (https://www.rociosemino.com/).
 
-      Publications related to the project (2 still on the process of writing):
-      https://doi.org/10.1063/5.0145924
-      https://doi.org/10.1063/5.0190807
-      https://doi.org/10.1021/acs.jctc.4c01341
+      Publications related to the project (2 still ongoing):
+      - https://doi.org/10.1063/5.0145924
+      - https://doi.org/10.1063/5.0190807
+      - https://doi.org/10.1021/acs.jctc.4c01341
       
       Publication I assisted with:
-      https://doi.org/10.1021/acsapm.4c02014
+      - https://doi.org/10.1021/acsapm.4c02014
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
