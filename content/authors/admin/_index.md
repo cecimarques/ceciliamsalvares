@@ -123,18 +123,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Brazilian Jiu Jitsu
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 
+        icon: 
+      - name: Running
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 
+        icon: 
+      - name: Weight Training
         description: ''
-        percent: 80
-        icon: camera
+        percent:
+        icon:
 
 languages:
   - name: English
