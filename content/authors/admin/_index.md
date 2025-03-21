@@ -104,17 +104,21 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: 'Good Experience'
         percent: 100
         icon: 
       - name: LAMMPS
-        description: ''
+        description: 'Good Experience'
         percent: 100
         icon: 
       - name: Origin
-        description: ''
+        description: 'Good Experience'
         percent: 100
         icon: 
+      - name: Ovito
+        descritpion: 'Good Experience'
+        percent: 100
+        icon:
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
