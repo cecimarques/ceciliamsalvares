@@ -104,49 +104,42 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: 'Good Experience'
-        percent: 100
+        description: ''
+        percent: 80
         icon: devicon/python
-      - name: LAMMPS
-        description: 'Good Experience
+      - name: RStudio
+        description: ''
         percent: 100
-        icon: devicon/python
-      - name: Origin
-        description: 'Good Experience'
-        percent: 100
-        icon: devicon/python
-      - name: OVITO
-        description: 'Good Experience'
-        percent: 100
-        icon: devicon/python
+        icon: devicon/rstudio
+      - name: PyTorch
+        description: ''
+        percent: 40
+        icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Jiu jtsu
+      - name: Hiking
         description: ''
-        percent: ''
-        icon: ''
-      - name: Running
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
         description: ''
-        percent: ''
-        icon: ''
-      - name: Weight Training
+        percent: 100
+        icon: cat
+      - name: Photography
         description: ''
-        percent: ''
-        icon: ''
-      - name: Geopolitics
-        description: ''
-        percent: ''
-        icon: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: English
-    percent: 90
-  - name: Portuguese
     percent: 100
-  - name: French
-    percent: 50
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
