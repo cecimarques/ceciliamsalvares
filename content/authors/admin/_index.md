@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'cecilia.alvares@warwick.ac.uk'
+    url: 'mailto:cecilia.alvares@warwick.ac.uk'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/cecimarques
