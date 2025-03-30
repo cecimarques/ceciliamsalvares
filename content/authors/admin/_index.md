@@ -50,7 +50,7 @@ education:
       - https://doi.org/10.1021/acsapm.4c02014
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://drive.google.com/file/d/1RlXRHt92P0JJC8DQU6RCpP4DHjHaXm3x/view?usp=sharing'
   - area: Master of Science (Erasmus - FAME)
     institution: Grenoble INP and Technische Universitat Darmstadt (double degree)
     date_start: 2018-09-01
