@@ -82,7 +82,7 @@ education:
       - Teaching assistant of the mathematics department (PUC-MG) on analytical geometry and differential and integral calculus.
       - Research assistant at the Universidade Federal de Minas Gerais (PUC-MG) on the project "Advanced Water Treatment to Public supply during emergency situations".
 
-      No industrial-related activity was taken at the time, with my focus always being academia on its classical definition (I hate industry-type of work).
+      No industrial-related activity was taken at the time, with my focus always being academia on its classical definition (I believe I would hate industry-type of work).
 
       Acknowledgements :
       - to my excellent professors at PUC-MG: Flaviana Dutra, Marcelo Viana, Claudete Botaro, Laura Hamdan, Barbara Ricci, amongst many others. 
