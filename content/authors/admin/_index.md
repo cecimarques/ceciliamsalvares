@@ -109,6 +109,10 @@ skills:
         description: 'Good Experience'
         percent: 
         icon: 
+      - name: Gromacs
+        description: 'Some Experience'
+        percent: 
+        icon: 
       - name: Origin
         description: 'Good Experience'
         percent: 
