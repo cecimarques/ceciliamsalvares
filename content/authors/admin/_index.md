@@ -41,7 +41,7 @@ education:
     summary: |
       The project aimed to study ZIF-8/PVDF composites at the nanoparticle level using a coarse grained model to answer, at the molecular level, questions related to the influence of nanoparticle shape and size on the polymer structuration and gas adsorption. The project also contemplated the development (and assessment) of several force fields, stemming from different potential fitting strategies (MARTINI, force matching and iterative Boltzmann inversion), as well as different mappings for studying bulk ZIF-8. This thesis was supervised by Prof. Rocio Semino (https://www.rociosemino.com/).
 
-      Publications related to the project (2 still ongoing):
+      Publications related to the project so far:
       - https://doi.org/10.1063/5.0145924
       - https://doi.org/10.1063/5.0190807
       - https://doi.org/10.1021/acs.jctc.4c01341
@@ -56,7 +56,7 @@ education:
     date_start: 2018-09-01
     date_end: 2020-08-31
     summary: |
-      Courses were about fundamentals of material's science and applications within a diverse spectrum. My specialization (as well as internship and Mater thesis) was directed towards classical computer simulations. The topic of my Master thesis in particular was on evaluating a given force field on what concerns its ability to reproduce the specific heat capacity at constant pressure (in liquid and solid phases), self-diffusion coefficients and melting point of CaO using classical molecular dynamics, and was made under the supervision of Noel Jakse.
+      Courses were about fundamentals of material's science and applications within a diverse spectrum. My specialization (as well as internship and Mater thesis) was directed towards computer simulations (especially classical molecular dynamics). The topic of my Master thesis in particular was on evaluating a given force field on what concerns its ability to reproduce the specific heat capacity at constant pressure (in liquid and solid phases), self-diffusion coefficients and melting point of CaO using classical molecular dynamics, and was made under the supervision of Noel Jakse.
 
       Publications my work assisted with to one extent or another:
       - https://doi.org/10.1016/j.calphad.2020.101764
@@ -69,25 +69,23 @@ education:
     summary: |
       GPA: 3.36
       
-      A spectrum of courses within mathematics, chemistry and physics exist throughout a 5 year Chemical Engineering degree in Brazil. My focus was always on 
+      A spectrum of courses within mathematics, chemistry and physics exist throughout a 5 year Chemical Engineering degree in Brazil. Guided by my interest, my focus was always on 
       - Differential and Integral calculus
-      - Physical Chemistry
-      - Classical Thermodynamics
+      - Physical Chemistry & Classical Thermodynamics
       - Analytical Geometry
       - Linear Algebra
       - Differential equations
 
-      Fundamentals of chemistry and physics were also, naturally, learnt. The former encapsulated only classical mechanics, with the learning of quantum mechanics coming later on as an extracurricular activity of mine. Statistical mechanics, electromagnetism, fundamentals of solid state chemistry and density functional theory were other topics I have devoted time to learn by myself.
+      Fundamentals of chemistry and physics were also, naturally, learnt. The former encapsulated fundamentally classical mechanics, with the learning of quantum mechanics coming later. Statistical mechanics, electromagnetism, fundamentals of solid state chemistry and density functional theory came along as "extra-curricular activities", since these are not comprised in a standard Chemical Engineering degree.
 
       Side jobs I had as an undergraduate:
-      - Teaching assistant of the mathematics department (PUC-MG) on analytical geometry differential and integral calculus.
+      - Teaching assistant of the mathematics department (PUC-MG) on analytical geometry and differential and integral calculus.
       - Research assistant at the Universidade Federal de Minas Gerais (PUC-MG) on the project "Advanced Water Treatment to Public supply during emergency situations".
 
-      No industrial-related activity was taken at the time, with my focus always being academia on its classical definition.
+      No industrial-related activity was taken at the time, with my focus always being academia on its classical definition (I hate industry-type of work).
 
       Acknowledgements :
-      - to my excellent professors at PUC-MG: Flaviana Dutra, Marcelo Viana, Claudete Botaro, Orozimbo Almeida, Claudia (?), Peter (?), Laura Hamdan, Barbara Ricci, Mariana (?), Paulino (?), amongst many others.
-      - to Universidade federal de Ado Jorio (UFMG), 
+      - to my excellent professors at PUC-MG: Flaviana Dutra, Marcelo Viana, Claudete Botaro, Laura Hamdan, Barbara Ricci, amongst many others. 
 work:
   - position: Postdoc
     company_name: University of Warwick, Sosso group
